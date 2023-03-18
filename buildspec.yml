@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    version: "v6.11"
+    version: "v7.11"
   secrets-manager:
     DOCKERHUB_USER: arn:aws:secretsmanager:ap-northeast-1:764403747865:secret:tanabe-DOCKERHUB_USER-1lk7Tt:DOCKERHUB_USER
     DOCKERHUB_PASS: arn:aws:secretsmanager:ap-northeast-1:764403747865:secret:tanabe-DOCKERHUB_PASS-ZVaTP2:DOCKERHUB_PASS
